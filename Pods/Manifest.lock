@@ -1,0 +1,39 @@
+PODS:
+  - CTMediator (25)
+  - XJAuthorTestCategoryKit (1.0.1):
+    - CTMediator
+  - XJAuthorTestKit (1.0.2):
+    - XJPrefrenceTestCategoryKit
+  - XJPrefrenceTestCategoryKit (1.0.0):
+    - CTMediator
+  - XJPrefrenceTestKit (1.0.0)
+  - XJToolsKit (1.0.1)
+
+DEPENDENCIES:
+  - XJAuthorTestCategoryKit
+  - XJAuthorTestKit
+  - XJPrefrenceTestCategoryKit
+  - XJPrefrenceTestKit
+  - XJToolsKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CTMediator
+  https://github.com/li125434104/XJSpecs.git:
+    - XJAuthorTestCategoryKit
+    - XJAuthorTestKit
+    - XJPrefrenceTestCategoryKit
+    - XJPrefrenceTestKit
+    - XJToolsKit
+
+SPEC CHECKSUMS:
+  CTMediator: 830c1fc204b3a6abf2a059510c7380f56343da0f
+  XJAuthorTestCategoryKit: 251d580ef3c3a72bb9dd59970e6dafc8fa03bc5b
+  XJAuthorTestKit: 505b92820fd201d087a18dfb2c5c5fab81fee018
+  XJPrefrenceTestCategoryKit: 44f2086fac277626f7b4da9481496e618c6b821e
+  XJPrefrenceTestKit: d9b6511efc83c3f61ef78962d4b85860dc63e53d
+  XJToolsKit: 6f2bcc7f12cab56c2892cb3a15dc119d9479d2ed
+
+PODFILE CHECKSUM: e5d9c495961cc0834527c6dcfde5cf763da86720
+
+COCOAPODS: 1.7.0.beta.1

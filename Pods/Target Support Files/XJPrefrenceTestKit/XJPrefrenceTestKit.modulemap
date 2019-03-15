@@ -1,0 +1,6 @@
+framework module XJPrefrenceTestKit {
+  umbrella header "XJPrefrenceTestKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

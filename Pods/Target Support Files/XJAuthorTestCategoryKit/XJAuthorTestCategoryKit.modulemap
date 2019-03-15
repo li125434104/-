@@ -1,0 +1,6 @@
+framework module XJAuthorTestCategoryKit {
+  umbrella header "XJAuthorTestCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

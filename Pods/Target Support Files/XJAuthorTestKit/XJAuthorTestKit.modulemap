@@ -1,0 +1,6 @@
+framework module XJAuthorTestKit {
+  umbrella header "XJAuthorTestKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
